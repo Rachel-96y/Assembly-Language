@@ -1,0 +1,1 @@
+Link /subsystem:windows /LIBPATH:D:\masm32\lib HelloWorld.obj

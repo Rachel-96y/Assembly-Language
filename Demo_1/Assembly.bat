@@ -1,0 +1,1 @@
+Ml /c /coff /I D:\masm32\include HelloWorld.asm
